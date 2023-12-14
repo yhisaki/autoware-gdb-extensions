@@ -1,0 +1,9 @@
+.envrc
+Taskfile.yml
+build/
+install/
+log/
+.vscode/
+__pycache__/
+*.egg-info/
+tmp/
